@@ -10,8 +10,6 @@ Welcome to the `SQL-Agent-using-CrewAI-and-Groq` repository! This project demons
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Disclaimer](#disclaimer)
-- [Links](#links)
 
 ## Overview
 
